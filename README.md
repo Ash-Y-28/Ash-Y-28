@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working for Banner Health as Data Scientist and also a Master's<br>student at University of Arizona<br>I am looking to collaborate on projects, ideas, related to AI-Automation, RAG, <br>Machine Learning and Generative AI.<br>I am open for new opportunities<br>
+I am currently working for Banner Health as Data Scientist and also a Master's student at University of Arizona<br>I am looking to collaborate on projects, ideas, related to AI-Automation, RAG,Machine Learning and Generative AI.<br>I am open to new opportunities<br>
 
 
 ## 🌐 Socials:
