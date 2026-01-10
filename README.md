@@ -6,7 +6,8 @@ Currently navigating the world of **Data Science** at **Banner Health** by day a
 - **🤖 Deep Interests:** AI-Automation, Generative Modeling, and Predictive Analytics.
 - **💡 Open for:** Collaborations on innovative AI projects and new career opportunities.
 
->> "Data is the new oil, but AI is the refinery that makes it move the world."
+> [!TIP]
+> "Data is the new oil, but AI is the refinery that makes it move the world."
 
 
 ## 🌐 Socials:
