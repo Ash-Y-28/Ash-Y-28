@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ash! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="animated waving hand"> Hi, I'm Ash! 
 
 Currently navigating the world of **Data Science** at **Banner Health** by day and pushing the boundaries of **AI** at the **University of Arizona** by night. 🌙✨
 
