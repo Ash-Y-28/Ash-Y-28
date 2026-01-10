@@ -10,11 +10,12 @@ I am currently working for Banner Health as Data Scientist and also a Master's<b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ash-Y-28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Snake animation](https://github.com/Ash-Y-28/Ash-Y-28/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Ash-Y-28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Y-28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/Ash-Y-28/Ash-Y-28/raw/output/github-contribution-grid-snake-dark.svg)
+
