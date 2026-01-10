@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am currently working for Banner Health as Data Scientist and also a Master's student at University of Arizona<br>I am looking to collaborate on projects, ideas, related to AI-Automation, RAG,Machine Learning and Generative AI.<br>I am open to new opportunities<br>
+# 👋 Hi, I'm Ash! 
+
+Currently navigating the world of **Data Science** at **Banner Health** by day and pushing the boundaries of **AI** at the **University of Arizona** by night. 🌙✨
+
+- **🔭 Currently exploring:** Advanced RAG patterns and LLM Orchestration.
+- **🤖 Deep Interests:** AI-Automation, Generative Modeling, and Predictive Analytics.
+- **💡 Open for:** Collaborations on innovative AI projects and new career opportunities.
+
+> "Data is the new oil, but AI is the refinery that makes it move the world."
 
 
 ## 🌐 Socials:
